@@ -10,7 +10,7 @@ app.get('/art1', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-  res.send('THIS IS 2')
+  res.send('THIS IS 2');
 });
 
 
